@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello, I am a Fullstack Developer with a Bachelor's degree in Mechanical Engineering. My passion for creating efficient systems and solving complex problems led me to pursue a career in web development. With expertise in both frontend and backend technologies, I am able to apply my technical skills to create innovative and user-friendly web solutions.
 React project
 
 
